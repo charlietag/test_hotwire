@@ -9,3 +9,9 @@
 ```
 rails_614
 ```
+
+* command
+
+```
+rails new rails_614 -d mysql --skip-spring
+```
