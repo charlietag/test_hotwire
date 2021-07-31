@@ -2,7 +2,7 @@
 
 ## Test hotwire
 
-* asset_pipeline
+* webpack (installed with turbolinks)
 * https://hotwired.dev/
 * test name
 
