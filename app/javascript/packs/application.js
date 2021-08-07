@@ -27,3 +27,4 @@ import "controllers"
 // })
 
 // Use Turbo with stimulus, do not put script in <body>
+// if put script within <body>, it will be triggered so many times including cached (I think it's been eval, even Turbo is comparing new content in <body>)
