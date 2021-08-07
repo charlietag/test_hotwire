@@ -22,3 +22,9 @@ rails new rails_614 -d mysql --skip-spring
   * ...
 
 * Ref. https://github.com/hotwired/hotwire-rails
+
+
+## Special Notice about Turbo + Stimulus
+
+* `app/javascript/controllers/resetform_controller.js`
+* `app/javascript/packs/application.js`

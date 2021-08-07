@@ -12,3 +12,11 @@ Rails.start()
 ActiveStorage.start()
 
 import "controllers"
+
+
+
+// document.addEventListener("turbo:load", function() {
+//   GA()
+// })
+
+// Use Turbo with stimulus, do not put script in <body>
